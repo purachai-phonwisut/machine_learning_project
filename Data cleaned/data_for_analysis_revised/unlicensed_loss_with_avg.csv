@@ -1,0 +1,88 @@
+region,Country,avg unlicensed loss per year (in million USD)
+AP,Australia,656.25
+AP,Bangladesh,201.5
+AP,China,8292.0
+AP,India,2749.75
+AP,Indonesia,1292.5
+AP,Japan,1300.0
+AP,Malaysia,531.0
+AP,New Zealand,76.25
+AP,Pakistan,291.25
+AP,Philippines,400.25
+AP,Singapore,281.0
+AP,South Korea,695.5
+AP,Sri Lanka,143.5
+AP,Taiwan,279.0
+AP,Thailand,793.25
+AP,Vietnam,526.25
+CEE,Azerbaijan,77.5
+CEE,Belarus,98.75
+CEE,Bulgaria,88.25
+CEE,Croatia,58.75
+CEE,Czech Republic,173.75
+CEE,Estonia,19.25
+CEE,Georgia,34.75
+CEE,Hungary,120.25
+CEE,Kazakhstan,102.5
+CEE,Latvia,26.5
+CEE,Lithuania,40.75
+CEE,Poland,510.75
+CEE,Romania,181.75
+CEE,Russia,2129.25
+CEE,Serbia,69.75
+CEE,Slovakia,60.25
+CEE,Slovenia,37.5
+CEE,Ukraine,332.0
+LA,Argentina,617.25
+LA,Bolivia,86.5
+LA,Brazil,2283.5
+LA,Chile,334.75
+LA,Colombia,303.25
+LA,Costa Rica,82.5
+LA,Dominican Republic,81.0
+LA,Ecuador,122.75
+LA,El Salvador,63.5
+LA,Guatemala,154.25
+LA,Honduras,32.5
+LA,Mexico,1050.0
+LA,Panama,105.75
+LA,Paraguay,88.25
+LA,Peru,214.5
+LA,Uruguay,66.75
+LA,Venezuela,604.25
+MEA,Algeria,84.75
+MEA,Bahrain,29.0
+MEA,Cameroon,14.75
+MEA,Egypt,147.75
+MEA,Iraq,128.75
+MEA,Israel,173.75
+MEA,Jordan,33.0
+MEA,Kenya,106.25
+MEA,Kuwait,87.25
+MEA,Lebanon,60.75
+MEA,Morocco,67.25
+MEA,Nigeria,223.25
+MEA,Oman,54.0
+MEA,Qatar,68.75
+MEA,Saudi Arabia,409.5
+MEA,South Africa,366.0
+MEA,Tunisia,51.25
+MEA,Turkey,382.25
+NA,Canada,985.5
+NA,USA,9304.25
+WE,Austria,162.75
+WE,Belgium,215.25
+WE,Denmark,197.25
+WE,Finland,188.75
+WE,France,2384.0
+WE,Germany,1927.25
+WE,Greece,231.25
+WE,Ireland,104.25
+WE,Italy,1577.75
+WE,Netherlands,539.25
+WE,Norway,218.5
+WE,Portugal,176.75
+WE,Spain,1008.0
+WE,Sweden,351.5
+WE,Switzerland,457.5
+WE,United Kingdom,1829.5

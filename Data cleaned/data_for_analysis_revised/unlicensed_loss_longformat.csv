@@ -1,0 +1,349 @@
+﻿Country,Region,Year,Usage (Million USD)
+Algeria,MEA,2017,70
+Algeria,MEA,2015,84
+Algeria,MEA,2013,102
+Algeria,MEA,2011,83
+Argentina,LA,2017,308
+Argentina,LA,2015,554
+Argentina,LA,2013,950
+Argentina,LA,2011,657
+Australia,AP,2017,540
+Australia,AP,2015,579
+Australia,AP,2013,743
+Australia,AP,2011,763
+Austria,WE,2017,121
+Austria,WE,2015,131
+Austria,WE,2013,173
+Austria,WE,2011,226
+Azerbaijan,CEE,2017,50
+Azerbaijan,CEE,2015,90
+Azerbaijan,CEE,2013,103
+Azerbaijan,CEE,2011,67
+Bahrain,MEA,2017,32
+Bahrain,MEA,2015,34
+Bahrain,MEA,2013,27
+Bahrain,MEA,2011,23
+Bangladesh,AP,2017,226
+Bangladesh,AP,2015,236
+Bangladesh,AP,2013,197
+Bangladesh,AP,2011,147
+Belarus,CEE,2017,59
+Belarus,CEE,2015,76
+Belarus,CEE,2013,173
+Belarus,CEE,2011,87
+Belgium,WE,2017,182
+Belgium,WE,2015,190
+Belgium,WE,2013,237
+Belgium,WE,2011,252
+Bolivia,LA,2017,94
+Bolivia,LA,2015,98
+Bolivia,LA,2013,95
+Bolivia,LA,2011,59
+Brazil,LA,2017,1665
+Brazil,LA,2015,1770
+Brazil,LA,2013,2851
+Brazil,LA,2011,2848
+Bulgaria,CEE,2017,72
+Bulgaria,CEE,2015,78
+Bulgaria,CEE,2013,101
+Bulgaria,CEE,2011,102
+Cameroon,MEA,2017,20
+Cameroon,MEA,2015,21
+Cameroon,MEA,2013,9
+Cameroon,MEA,2011,9
+Canada,NA,2017,819
+Canada,NA,2015,893
+Canada,NA,2013,1089
+Canada,NA,2011,1141
+Chile,LA,2017,283
+Chile,LA,2015,296
+Chile,LA,2013,378
+Chile,LA,2011,382
+China,AP,2017,6842
+China,AP,2015,8657
+China,AP,2013,8767
+China,AP,2011,8902
+Colombia,LA,2017,241
+Colombia,LA,2015,281
+Colombia,LA,2013,396
+Colombia,LA,2011,295
+Costa Rica,LA,2017,80
+Costa Rica,LA,2015,90
+Costa Rica,LA,2013,98
+Costa Rica,LA,2011,62
+Croatia,CEE,2017,48
+Croatia,CEE,2015,49
+Croatia,CEE,2013,64
+Croatia,CEE,2011,74
+Czech Republic,CEE,2017,149
+Czech Republic,CEE,2015,150
+Czech Republic,CEE,2013,182
+Czech Republic,CEE,2011,214
+Denmark,WE,2017,167
+Denmark,WE,2015,176
+Denmark,WE,2013,224
+Denmark,WE,2011,222
+Dominican Republic,LA,2017,74
+Dominican Republic,LA,2015,84
+Dominican Republic,LA,2013,73
+Dominican Republic,LA,2011,93
+Ecuador,LA,2017,132
+Ecuador,LA,2015,137
+Ecuador,LA,2013,130
+Ecuador,LA,2011,92
+Egypt,MEA,2017,64
+Egypt,MEA,2015,157
+Egypt,MEA,2013,198
+Egypt,MEA,2011,172
+El Salvador,LA,2017,61
+El Salvador,LA,2015,63
+El Salvador,LA,2013,72
+El Salvador,LA,2011,58
+Estonia,CEE,2017,16
+Estonia,CEE,2015,16
+Estonia,CEE,2013,20
+Estonia,CEE,2011,25
+Finland,WE,2017,166
+Finland,WE,2015,171
+Finland,WE,2013,208
+Finland,WE,2011,210
+France,WE,2017,1996
+France,WE,2015,2101
+France,WE,2013,2685
+France,WE,2011,2754
+Georgia,CEE,2017,22
+Georgia,CEE,2015,25
+Georgia,CEE,2013,40
+Georgia,CEE,2011,52
+Germany,WE,2017,1566
+Germany,WE,2015,1720
+Germany,WE,2013,2158
+Germany,WE,2011,2265
+Greece,WE,2017,173
+Greece,WE,2015,189
+Greece,WE,2013,220
+Greece,WE,2011,343
+Guatemala,LA,2017,165
+Guatemala,LA,2015,169
+Guatemala,LA,2013,167
+Guatemala,LA,2011,116
+Honduras,LA,2017,32
+Honduras,LA,2015,36
+Honduras,LA,2013,38
+Honduras,LA,2011,24
+Hungary,CEE,2017,104
+Hungary,CEE,2015,107
+Hungary,CEE,2013,127
+Hungary,CEE,2011,143
+India,AP,2017,2474
+India,AP,2015,2684
+India,AP,2013,2911
+India,AP,2011,2930
+Indonesia,AP,2017,1095
+Indonesia,AP,2015,1145
+Indonesia,AP,2013,1463
+Indonesia,AP,2011,1467
+Iraq,MEA,2017,107
+Iraq,MEA,2015,120
+Iraq,MEA,2013,116
+Iraq,MEA,2011,172
+Ireland,WE,2017,79
+Ireland,WE,2015,87
+Ireland,WE,2013,107
+Ireland,WE,2011,144
+Israel,MEA,2017,165
+Israel,MEA,2015,161
+Israel,MEA,2013,177
+Israel,MEA,2011,192
+Italy,WE,2017,1278
+Italy,WE,2015,1341
+Italy,WE,2013,1747
+Italy,WE,2011,1945
+Japan,AP,2017,982
+Japan,AP,2015,994
+Japan,AP,2013,1349
+Japan,AP,2011,1875
+Jordan,MEA,2017,32
+Jordan,MEA,2015,34
+Jordan,MEA,2013,35
+Jordan,MEA,2011,31
+Kazakhstan,CEE,2017,62
+Kazakhstan,CEE,2015,89
+Kazakhstan,CEE,2013,136
+Kazakhstan,CEE,2011,123
+Kenya,MEA,2017,99
+Kenya,MEA,2015,113
+Kenya,MEA,2013,128
+Kenya,MEA,2011,85
+Kuwait,MEA,2017,86
+Kuwait,MEA,2015,94
+Kuwait,MEA,2013,97
+Kuwait,MEA,2011,72
+Latvia,CEE,2017,22
+Latvia,CEE,2015,23
+Latvia,CEE,2013,29
+Latvia,CEE,2011,32
+Lebanon,MEA,2017,61
+Lebanon,MEA,2015,65
+Lebanon,MEA,2013,65
+Lebanon,MEA,2011,52
+Lithuania,CEE,2017,35
+Lithuania,CEE,2015,37
+Lithuania,CEE,2013,47
+Lithuania,CEE,2011,44
+Malaysia,AP,2017,395
+Malaysia,AP,2015,456
+Malaysia,AP,2013,616
+Malaysia,AP,2011,657
+Mexico,LA,2017,760
+Mexico,LA,2015,980
+Mexico,LA,2013,1211
+Mexico,LA,2011,1249
+Morocco,MEA,2017,52
+Morocco,MEA,2015,57
+Morocco,MEA,2013,69
+Morocco,MEA,2011,91
+Netherlands,WE,2017,448
+Netherlands,WE,2015,481
+Netherlands,WE,2013,584
+Netherlands,WE,2011,644
+New Zealand,AP,2017,62
+New Zealand,AP,2015,66
+New Zealand,AP,2013,78
+New Zealand,AP,2011,99
+Nigeria,MEA,2017,123
+Nigeria,MEA,2015,232
+Nigeria,MEA,2013,287
+Nigeria,MEA,2011,251
+Norway,WE,2017,159
+Norway,WE,2015,178
+Norway,WE,2013,248
+Norway,WE,2011,289
+Oman,MEA,2017,56
+Oman,MEA,2015,59
+Oman,MEA,2013,65
+Oman,MEA,2011,36
+Pakistan,AP,2017,267
+Pakistan,AP,2015,276
+Pakistan,AP,2013,344
+Pakistan,AP,2011,278
+Panama,LA,2017,112
+Panama,LA,2015,117
+Panama,LA,2013,120
+Panama,LA,2011,74
+Paraguay,LA,2017,76
+Paraguay,LA,2015,89
+Paraguay,LA,2013,115
+Paraguay,LA,2011,73
+Peru,LA,2017,190
+Peru,LA,2015,210
+Peru,LA,2013,249
+Peru,LA,2011,209
+Philippines,AP,2017,388
+Philippines,AP,2015,431
+Philippines,AP,2013,444
+Philippines,AP,2011,338
+Poland,CEE,2017,415
+Poland,CEE,2015,447
+Poland,CEE,2013,563
+Poland,CEE,2011,618
+Portugal,WE,2017,137
+Portugal,WE,2015,145
+Portugal,WE,2013,180
+Portugal,WE,2011,245
+Qatar,MEA,2017,64
+Qatar,MEA,2015,72
+Qatar,MEA,2013,77
+Qatar,MEA,2011,62
+Romania,CEE,2017,151
+Romania,CEE,2015,161
+Romania,CEE,2013,208
+Romania,CEE,2011,207
+Russia,CEE,2017,1291
+Russia,CEE,2015,1341
+Russia,CEE,2013,2658
+Russia,CEE,2011,3227
+Saudi Arabia,MEA,2017,356
+Saudi Arabia,MEA,2015,412
+Saudi Arabia,MEA,2013,421
+Saudi Arabia,MEA,2011,449
+Serbia,CEE,2017,51
+Serbia,CEE,2015,54
+Serbia,CEE,2013,70
+Serbia,CEE,2011,104
+Singapore,AP,2017,235
+Singapore,AP,2015,290
+Singapore,AP,2013,344
+Singapore,AP,2011,255
+Slovakia,CEE,2017,51
+Slovakia,CEE,2015,55
+Slovakia,CEE,2013,67
+Slovakia,CEE,2011,68
+Slovenia,CEE,2017,28
+Slovenia,CEE,2015,30
+Slovenia,CEE,2013,41
+Slovenia,CEE,2011,51
+South Africa,MEA,2017,241
+South Africa,MEA,2015,274
+South Africa,MEA,2013,385
+South Africa,MEA,2011,564
+South Korea,AP,2017,598
+South Korea,AP,2015,657
+South Korea,AP,2013,712
+South Korea,AP,2011,815
+Spain,WE,2017,859
+Spain,WE,2015,913
+Spain,WE,2013,1044
+Spain,WE,2011,1216
+Sri Lanka,AP,2017,138
+Sri Lanka,AP,2015,163
+Sri Lanka,AP,2013,187
+Sri Lanka,AP,2011,86
+Sweden,WE,2017,260
+Sweden,WE,2015,288
+Sweden,WE,2013,397
+Sweden,WE,2011,461
+Switzerland,WE,2017,399
+Switzerland,WE,2015,448
+Switzerland,WE,2013,469
+Switzerland,WE,2011,514
+Taiwan,AP,2017,254
+Taiwan,AP,2015,264
+Taiwan,AP,2013,305
+Taiwan,AP,2011,293
+Thailand,AP,2017,714
+Thailand,AP,2015,738
+Thailand,AP,2013,869
+Thailand,AP,2011,852
+Tunisia,MEA,2017,39
+Tunisia,MEA,2015,49
+Tunisia,MEA,2013,66
+Tunisia,MEA,2011,51
+Turkey,MEA,2017,208
+Turkey,MEA,2015,291
+Turkey,MEA,2013,504
+Turkey,MEA,2011,526
+Ukraine,CEE,2017,108
+Ukraine,CEE,2015,129
+Ukraine,CEE,2013,444
+Ukraine,CEE,2011,647
+United Kingdom,WE,2017,1421
+United Kingdom,WE,2015,1935
+United Kingdom,WE,2013,2019
+United Kingdom,WE,2011,1943
+United States,NA,2017,8612
+United States,NA,2015,9095
+United States,NA,2013,9737
+United States,NA,2011,9773
+Uruguay,LA,2017,51
+Uruguay,LA,2015,57
+Uruguay,LA,2013,74
+Uruguay,LA,2011,85
+Venezuela,LA,2017,317
+Venezuela,LA,2015,402
+Venezuela,LA,2013,1030
+Venezuela,LA,2011,668
+Vietnam,AP,2017,492
+Vietnam,AP,2015,598
+Vietnam,AP,2013,620
+Vietnam,AP,2011,395
