@@ -1,0 +1,117 @@
+Country,2017,2015,2013,2011,region
+Australia,540,579,743,763,AP
+Bangladesh,226,236,197,147,AP
+Brunel,18,19,13,25,AP
+China,"6,842","8,657","8,767","8,902",AP
+Hong Kong,277,320,316,232,AP
+India,"2,474","2,684","2,911","2,930",AP
+Indonesia,"1,095","1,145","1,463","1,467",AP
+Japan,982,994,"1,349","1,875",AP
+Malaysia,395,456,616,657,AP
+New Zealand,62,66,78,99,AP
+Pakistan,267,276,344,278,AP
+Philippines,388,431,444,338,AP
+Singapore,235,290,344,255,AP
+South Korea,598,657,712,815,AP
+Sri Lanka,138,163,187,86,AP
+Taiwan,254,264,305,293,AP
+Thailand,714,738,869,852,AP
+Vietnam,492,598,620,395,AP
+Other AP,442,491,763,589,AP
+Albania,10,10,10,6,CEE
+Armenia,17,18,26,26,CEE
+Azerbaijan,50,90,103,67,CEE
+Belarus,59,76,173,87,CEE
+Bosnia,24,24,21,15,CEE
+Bulgaria,72,78,101,102,CEE
+Croatia,48,49,64,74,CEE
+Czech Republic,149,150,182,214,CEE
+Estonia,16,16,20,25,CEE
+FYROM,15,15,19,22,CEE
+Georgia,22,25,40,52,CEE
+Hungary,104,107,127,143,CEE
+Kazakhstan,62,89,136,123,CEE
+Latvia,22,23,29,32,CEE
+Lithuania,35,37,47,44,CEE
+Moldova,35,36,57,45,CEE
+Montenegro,6,6,7,7,CEE
+Poland,415,447,563,618,CEE
+Romania,151,161,208,207,CEE
+Russia,"1,291","1,341","2,658","3,227",CEE
+Serbia,51,54,70,104,CEE
+Slovakia,51,55,67,68,CEE
+Slovenia,28,30,41,51,CEE
+Ukraine,108,129,444,647,CEE
+Other CEE,69,70,105,127,CEE
+Argentina,308,554,950,657,LA
+Bolivia,94,98,95,59,LA
+Brazil,"1,665","1,770","2,851","2,848",LA
+Chile,283,296,378,382,LA
+Colombia,241,281,396,295,LA
+Costa Rica,80,90,98,62,LA
+Dominican Republic,74,84,73,93,LA
+Ecuador,132,137,130,92,LA
+El Salvador,61,63,72,58,LA
+Guatemala,165,169,167,116,LA
+Honduras,32,36,38,24,LA
+Mexico,760,980,"1,211","1,249",LA
+Nicaragua,20,23,23,9,LA
+Panama,112,117,120,74,LA
+Paraguay,76,89,115,73,LA
+Peru,190,210,249,209,LA
+Uruguay,51,57,74,85,LA
+Venezuela,317,402,"1,030",668,LA
+Other LA,296,331,352,406,LA
+Algeria,70,84,102,83,MEA
+Bahrain,32,34,27,23,MEA
+Botswana,22,23,20,16,MEA
+Cameroon,20,21,9,9,MEA
+Egypt,64,157,198,172,MEA
+Iraq,107,120,116,172,MEA
+Israel,165,161,177,192,MEA
+Ivory Coast,21,22,24,16,MEA
+Jordan,32,34,35,31,MEA
+Kenya,99,113,128,85,MEA
+Kuwait,86,94,97,72,MEA
+Lebanon,61,65,65,52,MEA
+Libya,66,65,50,60,MEA
+Mauritius,6,7,7,7,MEA
+Morocco,52,57,69,91,MEA
+Nigeria,123,232,287,251,MEA
+Oman,56,59,65,36,MEA
+Qatar,64,72,77,62,MEA
+Reunion,2,2,1,1,MEA
+Saudi Arabia,356,412,421,449,MEA
+Senegal,12,12,9,9,MEA
+South Africa,241,274,385,564,MEA
+Tunisia,39,49,66,51,MEA
+Turkey,208,291,504,526,MEA
+UAE,210,226,230,208,MEA
+Yemen,10,11,9,15,MEA
+Zambia,4,4,3,3,MEA
+Zimbabwe,7,7,4,4,MEA
+Other Africa,364,419,484,363,MEA
+Other ME,478,569,640,536,MEA
+Canada,819,893,"1,089","1,141",NA
+Puerto Rico,27,28,27,44,NA
+United States,"8,612","9,095","9,737","9,773",NA
+Austria,121,131,173,226,WE
+Belgium,182,190,237,252,WE
+Cyprus,14,14,19,19,WE
+Denmark,167,176,224,222,WE
+Finland,166,171,208,210,WE
+France,"1,996","2,101","2,685","2,754",WE
+Germany,"1,566","1,720","2,158","2,265",WE
+Greece,173,189,220,343,WE
+Iceland,12,10,12,17,WE
+Ireland,79,87,107,144,WE
+Italy,"1,278","1,341","1,747","1,945",WE
+Luxembourg,20,21,30,33,WE
+Malta,4,4,5,7,WE
+Netherlands,448,481,584,644,WE
+Norway,159,178,248,289,WE
+Portugal,137,145,180,245,WE
+Spain,859,913,"1,044","1,216",WE
+Sweden,260,288,397,461,WE
+Switzerland,399,448,469,514,WE
+United Kingdom,"1,421","1,935","2,019","1,943",WE
